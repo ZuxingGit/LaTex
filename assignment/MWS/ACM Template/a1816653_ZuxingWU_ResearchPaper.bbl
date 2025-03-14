@@ -1,0 +1,192 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{10}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Guo(2021)]%
+        {DBLP:journals/corr/abs-2104-06823}
+\bibfield{author}{\bibinfo{person}{Ruifeng Guo}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Designing an Android Application for Bills
+  Segregation}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/2104.06823}
+  (\bibinfo{year}{2021}).
+\newblock
+\showeprint[arXiv]{2104.06823}
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2104.06823}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Koko(2022)]%
+        {backendIntro}
+\bibfield{author}{\bibinfo{person}{Mitch Koko}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Quick Intro to Backend}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.youtube.com/watch?v=9QG-Wlg9pcw&ab_channel=MitchKoko}
+\showURL{%
+Retrieved November 14, 2024 from \tempurl}
+
+
+\bibitem[Koko(2023a)]%
+        {barGraph}
+\bibfield{author}{\bibinfo{person}{Mitch Koko}.}
+  \bibinfo{year}{2023}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{Bar Graph • Flutter Tutorial}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.youtube.com/watch?v=8j6iw33bJU0}
+\showURL{%
+Retrieved August 18, 2024 from \tempurl}
+
+
+\bibitem[Koko(2023b)]%
+        {timeline}
+\bibfield{author}{\bibinfo{person}{Mitch Koko}.}
+  \bibinfo{year}{2023}\natexlab{b}.
+\newblock \bibinfo{booktitle}{\emph{TIMELINE Widget • Flutter Tutorial}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.youtube.com/watch?v=9QG-Wlg9pcw&ab_channel=MitchKoko}
+\showURL{%
+Retrieved August 19, 2024 from \tempurl}
+
+
+\bibitem[Koko(2024)]%
+        {pieChart}
+\bibfield{author}{\bibinfo{person}{Mitch Koko}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Pie Chart • Flutter Tutorial}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.youtube.com/watch?v=z9J-BKTPLA8}
+\showURL{%
+Retrieved November 14, 2024 from \tempurl}
+
+
+\bibitem[Lewis et~al\mbox{.}(2021)]%
+        {lewis2021retrievalaugmentedgenerationknowledgeintensivenlp}
+\bibfield{author}{\bibinfo{person}{Patrick Lewis}, \bibinfo{person}{Ethan
+  Perez}, \bibinfo{person}{Aleksandra Piktus}, \bibinfo{person}{Fabio Petroni},
+  \bibinfo{person}{Vladimir Karpukhin}, \bibinfo{person}{Naman Goyal},
+  \bibinfo{person}{Heinrich Küttler}, \bibinfo{person}{Mike Lewis},
+  \bibinfo{person}{Wen tau Yih}, \bibinfo{person}{Tim Rocktäschel},
+  \bibinfo{person}{Sebastian Riedel}, {and} \bibinfo{person}{Douwe Kiela}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \bibinfo{title}{Retrieval-Augmented Generation for
+  Knowledge-Intensive NLP Tasks}.
+\newblock
+\newblock
+\showeprint[arxiv]{2005.11401}~[cs.CL]
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2005.11401}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Lodge et~al\mbox{.}(2018)]%
+        {10.1145/3267305.3274151}
+\bibfield{author}{\bibinfo{person}{Tom Lodge}, \bibinfo{person}{Andy Crabtree},
+  {and} \bibinfo{person}{Anthony Brown}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{IoT App Development: Supporting Data Protection by
+  Design and Default}. In \bibinfo{booktitle}{\emph{Proceedings of the 2018 ACM
+  International Joint Conference and 2018 International Symposium on Pervasive
+  and Ubiquitous Computing and Wearable Computers}} (Singapore, Singapore)
+  \emph{(\bibinfo{series}{UbiComp '18})}. \bibinfo{publisher}{Association for
+  Computing Machinery}, \bibinfo{address}{New York, NY, USA},
+  \bibinfo{pages}{901–910}.
+\newblock
+\showISBNx{9781450359665}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/3267305.3274151}
+\showDOI{\tempurl}
+
+
+\bibitem[Moazzami et~al\mbox{.}(2016)]%
+        {10.1145/2968219.2968345}
+\bibfield{author}{\bibinfo{person}{Mohammad-Mahdi Moazzami},
+  \bibinfo{person}{Daisuke Mashima}, \bibinfo{person}{Ulrich Herberg},
+  \bibinfo{person}{Wei-Pen Chen}, {and} \bibinfo{person}{Guoliang Xing}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{SPOT: a smartphone-based control app with a
+  device-agnostic and adaptive user-interface for IoT devices}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 2016 ACM International Joint
+  Conference on Pervasive and Ubiquitous Computing: Adjunct}} (Heidelberg,
+  Germany) \emph{(\bibinfo{series}{UbiComp '16})}.
+  \bibinfo{publisher}{Association for Computing Machinery},
+  \bibinfo{address}{New York, NY, USA}, \bibinfo{pages}{670–673}.
+\newblock
+\showISBNx{9781450344623}
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2968219.2968345}
+\showDOI{\tempurl}
+
+
+\bibitem[Stolojescu-Crisan et~al\mbox{.}(2021)]%
+        {s21113784}
+\bibfield{author}{\bibinfo{person}{Cristina Stolojescu-Crisan},
+  \bibinfo{person}{Calin Crisan}, {and} \bibinfo{person}{Bogdan-Petru
+  Butunoi}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{An IoT-Based Smart Home Automation System}.
+\newblock \bibinfo{journal}{\emph{Sensors}} \bibinfo{volume}{21},
+  \bibinfo{number}{11} (\bibinfo{year}{2021}).
+\newblock
+\showISSN{1424-8220}
+\urldef\tempurl%
+\url{https://doi.org/10.3390/s21113784}
+\showDOI{\tempurl}
+
+
+\bibitem[Zhong et~al\mbox{.}(2011)]%
+        {Zhong2011SmartHO}
+\bibfield{author}{\bibinfo{person}{Yu Zhong}, \bibinfo{person}{Yue Suo},
+  \bibinfo{person}{Wenchang Xu}, \bibinfo{person}{Chun Yu},
+  \bibinfo{person}{Xinwei Guo}, \bibinfo{person}{Yuhang Zhao}, {and}
+  \bibinfo{person}{Yuanchun Shi}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Smart home on smart phone}. In
+  \bibinfo{booktitle}{\emph{Ubiquitous Computing}}.
+\newblock
+\urldef\tempurl%
+\url{https://api.semanticscholar.org/CorpusID:18815393}
+\showURL{%
+\tempurl}
+
+
+\end{thebibliography}

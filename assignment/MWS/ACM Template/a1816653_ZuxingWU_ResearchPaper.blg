@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: a1816653_ZuxingWU_ResearchPaper.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--string name "august" is undefined
+--line 289 of file references.bib
+Warning--string name "october" is undefined
+--line 299 of file references.bib
+Warning--string name "august" is undefined
+--line 310 of file references.bib
+Warning--string name "august" is undefined
+--line 321 of file references.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--page numbers missing in both pages and numpages fields in DBLP:journals/corr/abs-2104-06823
+Warning--empty organization in backendIntro
+Warning--empty organization in barGraph
+Warning--empty organization in timeline
+Warning--empty organization in pieChart
+Warning--page numbers missing in both pages and numpages fields in s21113784
+Warning--empty publisher in Zhong2011SmartHO
+Warning--empty address in Zhong2011SmartHO
+Warning--page numbers missing in both pages and numpages fields in Zhong2011SmartHO
+You've used 10 entries,
+            5981 wiz_defined-function locations,
+            1705 strings with 22239 characters,
+and the built_in function-call counts, 9875 in all, are:
+= -- 1137
+> -- 358
+< -- 0
++ -- 118
+- -- 124
+* -- 744
+:= -- 1002
+add.period$ -- 45
+call.type$ -- 10
+change.case$ -- 76
+chr.to.int$ -- 9
+cite$ -- 19
+duplicate$ -- 858
+empty$ -- 595
+format.name$ -- 144
+if$ -- 2263
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 23
+newline$ -- 155
+num.names$ -- 69
+pop$ -- 330
+preamble$ -- 1
+purify$ -- 153
+quote$ -- 0
+skip$ -- 356
+stack$ -- 0
+substring$ -- 607
+swap$ -- 91
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 266
+warning$ -- 9
+while$ -- 51
+width$ -- 0
+write$ -- 258
+(There were 13 warnings)
