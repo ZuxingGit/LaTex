@@ -13,7 +13,7 @@ More evidence shows modelling robots on social animals is useful to facilitate l
 Thematic analysis identified 7 categories of behaviours perceived as important to human—dog bonding, including: 1) attunement, 2) communication, 3) consistency and predictability, 4) physical affection, 5) positivity and enthusiasm, 6) proximity, and 7) shared activities.
 providing insight into important behaviours for human—dog bonding, this work provides a springboard for those hoping to implement dog behaviours into animal-like artificial agents designed for social roles.
 
-Dogs behavior are intelligent and intentional. Researchers are concerning that by creating the illusion of intelligence or intentionality can make people feel being deceived by technology. When designing behaviours for a robotic dog, it will be necessary to consider such issues, weigh up the benefits and risks of robot deception, involve researchers from a broad range of disciplines to contribute to design and regulation (including law, ethics, social sciences, developmental psychology, etc).
+Dogs behaviors are intelligent and intentional. Researchers are concerning that by creating the illusion of intelligence or intentionality can make people feel being deceived by technology. When designing behaviours for a robotic dog, it will be necessary to consider such issues, weigh up the benefits and risks of robot deception, involve researchers from a broad range of disciplines to contribute to design and regulation (including law, ethics, social sciences, developmental psychology, etc).
 serve as long-term social companions for those individuals who are unable to look after a live pet for whatever reason.
 
 
